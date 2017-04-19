@@ -1,6 +1,6 @@
 # :star2: star-intersection :star2:
 
-Get the intersection of starred repositories of two users
+Get the intersection of starred repositories of users
 
 ## Table of contents
  - [Installation](#installation)
@@ -13,5 +13,5 @@ $ git clone https://github.com/obi-jan-kenobi/star-intersection && cd star-inter
 
 ## Usage
 ```Shell
-node index.js <username1> <username2>
+node index.js <usernames> // [ [intersection], Sum-of-stars-checked ]
 ```
